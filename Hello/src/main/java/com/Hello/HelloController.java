@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     @GetMapping("/message")
     public String getMessage(){
-        return "Ashim Hiras Lugun";
+        return "Ashim Hiras Praful Lugun";
     }
 }
